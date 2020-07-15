@@ -94,7 +94,7 @@ public class stepdefination extends Utils {
 				 String actualname=getJsonPath(response, "name");
 				 assertEquals(actualname,Expectedname);
 				 
-				
+				System.out.println("git test");
 			    			}
 
 
